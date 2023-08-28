@@ -62,7 +62,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.6;
   --bs-body-color: #585c7b;
-  --bs-body-bg: #fff;
+  --bs-body-bg: #f8f9fa;
 }
 
 *,
@@ -12459,15 +12459,15 @@ iframe {
 }
 
 ::-moz-selection {
-  background: rgba(99, 102, 241, 0.22);
+  background: rgba(0, 152, 196, 0.22);
 }
 
 ::selection {
-  background: rgba(99, 102, 241, 0.22);
+  background: rgba(0, 152, 196, 0.22);
 }
 
 ::-moz-selection {
-  background: rgba(99, 102, 241, 0.22);
+  background: rgba(0, 152, 196, 0.22);
 }
 
 b,
